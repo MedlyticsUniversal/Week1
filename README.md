@@ -1,6 +1,6 @@
 # Week1
 ## diabetes.csv
-This data table was taken from the [Pima Indians Diabetes Dataset]([url](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)). All patients here are females of Pima Native American heritage who are at least 21 years old.
+This data table was taken from the [Pima Indians Diabetes Dataset]([https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database]). All patients here are females of Pima Native American heritage who are at least 21 years old.
 
 - **Pregnancies**: Number of times pregnant
 - **Glucose**: Plasma glucose concentration 2 hours in an oral glucose tolerance test (GTIT)
