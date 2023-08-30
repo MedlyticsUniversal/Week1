@@ -7,7 +7,7 @@ This data table was taken from the [Pima Indians Diabetes Dataset](https://www.k
 - **Blood Pressure**: Diastolic blood pressure (mm Hg)
 - **Skin Thickness**: Triceps skin fold thickness (mm)
 - **Insulin**: 2-Hour serum insulin (µh/ml)
-- **BMI**: Body mass index (weight in kg/(height in m)$^2$)
+- **BMI**: Body mass index (weight in kg/(height in m)<sup>2</sup>)
 - **Diabetes Pedigree Function**: A function that scores the likelihood of diabetes based on family history
 - **Age**: Age (years)
 - **Outcome**: 1 (has diabetes) or 0 (no diabetes)
