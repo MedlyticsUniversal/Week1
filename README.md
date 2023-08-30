@@ -13,7 +13,7 @@ This data table was taken from the [Pima Indians Diabetes Dataset](https://www.k
 - **Outcome**: 1 (has diabetes) or 0 (no diabetes)
 
 ## Boston_July_Temp.csv & NYC_July_Temp.csv
-These tables report July temperatures, reported in degrees C, from [Extreme Weather Watch](https://www.extremeweatherwatch.com/).
+These tables report July temperatures, reported in degrees Celsius, from [Extreme Weather Watch](https://www.extremeweatherwatch.com/).
 
 - Boston temperatures are from 1893 to 2023.
 - NYC temperatures are from 1869 to 2023.
